@@ -1,3 +1,6 @@
+```
+This example is directly copied from the Tensorflow examples provided from the Teachable Machine.
+```
 import tensorflow.keras
 from PIL import Image, ImageOps
 import numpy as np
